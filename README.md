@@ -135,3 +135,8 @@ Orders
  
 
 Observation: Brie Carre Pizza consistently underperforms in every metric. These products may need replacement, repositioning, or recipe improvement. 
+
+Tableau Dashboards: 
+
+Home Page: 
+Dashboards/Best and Worst Sellers.png
