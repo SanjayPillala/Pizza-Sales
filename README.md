@@ -2,6 +2,9 @@
 Project Objective: 
 The goal of this analysis is to analyze pizza sales performance through important business metrics and visual insights. The dashboards assist decision makers in comprehending customer likes, peak times, product profitability, and sales trends, allowing them to make improved marketing, staffing, and stock planning decisions. 
 
+Dataset used:
+<a href = "https://github.com/SanjayPillala/Pizza-Sales/blob/main/Data%20Model%20-%20Pizza%20Sales.csv">Dataset</a>
+
  
 Summary of Key Metrics (KPIs): 
 
