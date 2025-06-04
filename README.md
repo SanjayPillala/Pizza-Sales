@@ -1,4 +1,4 @@
-# Pizza-Sales
+# Pizza-Sales Analysis Dashboard
 Project Objective: 
 The goal of this analysis is to analyze pizza sales performance through important business metrics and visual insights. The dashboards assist decision makers in comprehending customer likes, peak times, product profitability, and sales trends, allowing them to make improved marketing, staffing, and stock planning decisions. 
 
@@ -164,6 +164,9 @@ Manage Peaks Efficiently: Increase staffing, kitchen capacity and delivery slots
 
 Drive Consistent Revenue: Utilize insights of weekly dips to promote loyalty programs or discount schemes. 
 
+Tools Used:
+MS Excel
+Tableau Public
   
 
 Conclusion: 
