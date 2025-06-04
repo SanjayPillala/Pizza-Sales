@@ -142,4 +142,32 @@ Observation: Brie Carre Pizza consistently underperforms in every metric. These 
 Tableau Dashboards: 
 
 Home Page: 
-Dashboards/Best and Worst Sellers.png
+<a href = "https://github.com/SanjayPillala/Pizza-Sales/blob/main/Dashboards/Home.png">View Dashboard</a>
+
+Sales Trend:
+<a href = https://github.com/SanjayPillala/Pizza-Sales/blob/main/Dashboards/Sales%20Trend.png>View Dashboard</a>
+
+Best and Worst Sellers:
+<a href = https://github.com/SanjayPillala/Pizza-Sales/blob/main/Dashboards/Best%20and%20Worst%20Sellers.png>View Dashboard</a>
+
+Key Business Insights & Recommendations: 
+
+High-Impact Pizzas: Prioritize Thai Chicken and Classic Deluxe for profit and volume growth. 
+
+  
+
+Optimize Sizes: L size generates most of the sales—adjust offers accordingly. 
+
+Improve Underperformers: Investigate going back to price or topping of bottom 5 pizzas. 
+
+Manage Peaks Efficiently: Increase staffing, kitchen capacity and delivery slots during 12–   1 PM & 4–7 PM. 
+
+Drive Consistent Revenue: Utilize insights of weekly dips to promote loyalty programs or discount schemes. 
+
+  
+
+Conclusion: 
+
+This report provides a fact-based understanding of pizza sales performance by products, times, and sizes. With transparent trends and actionable recommendations, it acts as a strategic operations guide, marketing guide, and product development guide. 
+
+ 
